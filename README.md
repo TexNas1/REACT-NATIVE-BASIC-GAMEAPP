@@ -6,4 +6,4 @@
 # Once, the correct number is guessed, game gets over
 
 
-# The app has been developed by following the udemy course on "REACT NATIVE-COMPLETE GUIDE 2021"
+# The app has been developed by following the udemy course on "REACT NATIVE-THE COMPLETE GUIDE"
